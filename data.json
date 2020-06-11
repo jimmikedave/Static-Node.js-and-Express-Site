@@ -3,40 +3,45 @@
         "projects": [
             {
                 "id": "0",
-                "project name": "",
-                "technologies": "",
+                "project name": "Random Quote Generator",
+                "description": "Description goes here",
+                "technologies": "technology list",
                 "live link": "",
                 "github link": "",
                 "image urls": ""
             },
             {
                 "id": "1",
-                "project name": "",
-                "technologies": "",
+                "project name": "List Pagination and Filtering",
+                "description": "Description goes here",
+                "technologies": "technology list",
                 "live link": "",
                 "github link": "",
                 "image urls": ""
             },
             {
                 "id": "2",
-                "project name": "",
-                "technologies": "",
+                "project name": "Interactive Form",
+                "description": "Description goes here",
+                "technologies": "technology list",
                 "live link": "",
                 "github link": "",
                 "image urls": ""
             },
             {
                 "id": "3",
-                "project name": "",
-                "technologies": "",
+                "project name": "OOP Game Show App",
+                "description": "Description goes here",
+                "technologies": "technology list",
                 "live link": "",
                 "github link": "",
                 "image urls": ""
             },
             {
                 "id": "4",
-                "project name": "",
-                "technologies": "",
+                "project name": "Public API Requests",
+                "description": "Description goes here",
+                "technologies": "technology list",
                 "live link": "",
                 "github link": "",
                 "image urls": ""
