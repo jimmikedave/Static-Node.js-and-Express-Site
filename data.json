@@ -3,49 +3,49 @@
         "projects": [
             {
                 "id": "0",
-                "project name": "Random Quote Generator",
-                "description": "Description goes here",
-                "technologies": "technology list",
-                "live link": "",
-                "github link": "",
-                "image urls": ""
+                "projectName": "Public API Requests",
+                "description": "A fictional company called Awesome Startup needed an app to share contact information. This app grabs 12 random employees from a Random User Generator API and requests a JSON object to parse. The 12 employees are displayed along with their information. Each employee can be found when searched and show more information when clicked on.",
+                "technologies": ["Public API", "API Requests", "JSON"],
+                "liveLink": "https://jimmikedave.github.io/treehouse-project-5/",
+                "githubLink": "https://github.com/jimmikedave/treehouse-project-5",
+                "imageUrls": ["../static/images/p5_sc1.PNG", "../static/images/p5_sc2.PNG", "../static/images/p5_sc3.PNG"]
             },
             {
                 "id": "1",
-                "project name": "List Pagination and Filtering",
-                "description": "Description goes here",
-                "technologies": "technology list",
-                "live link": "",
-                "github link": "",
-                "image urls": ""
+                "projectName": "OOP Game Show App",
+                "description": "Browser-based word guessing game. This game is created with JavaScript and OOP (Object-Oriented Programming). A random phrase is selected and the player tries to guess what the word is by clicking or typing the letter they would like to guess. If you run out of hearts you lose!",
+                "technologies": ["OOP (Object-Oriented Programming)", "EventListener", "Array Iteration"],
+                "liveLink": "https://jimmikedave.github.io/Treehouse-Project-4/",
+                "githubLink": "https://github.com/jimmikedave/Treehouse-Project-4",
+                "imageUrls": ["../static/images/p4_sc1.PNG", "../static/images/p4_sc2.PNG", "../static/images/p4_sc3.PNG"]
             },
             {
                 "id": "2",
-                "project name": "Interactive Form",
-                "description": "Description goes here",
-                "technologies": "technology list",
-                "live link": "",
-                "github link": "",
-                "image urls": ""
+                "projectName": "Interactive Form",
+                "description": "Interactive form for a fictional conference called FullStack Conf. Conditional behavior is added with JavaScript to create a user-friendly program. If user input is invalid, error indicators appear on the page for the user to enter valid data.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "liveLink": "https://jimmikedave.github.io/Treehouse-Project-3/",
+                "githubLink": "https://github.com/jimmikedave/Treehouse-Project-3",
+                "imageUrls": ["../static/images/p3_sc1.PNG", "../static/images/p3_sc2.PNG", "../static/images/p3_sc3.PNG"]
             },
             {
                 "id": "3",
-                "project name": "OOP Game Show App",
-                "description": "Description goes here",
-                "technologies": "technology list",
-                "live link": "",
-                "github link": "",
-                "image urls": ""
+                "projectName": "List Pagination and Filtering",
+                "description": "A list of 54 student names is shown through list pagination and filtering. 10 names are displayed on each page through JavaScript. On the bottom of the page, users can cycle through the list by clicking the designated page number.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "liveLink": "https://jimmikedave.github.io/Treehouse-Project-2/",
+                "githubLink": "https://github.com/jimmikedave/Treehouse-Project-2",
+                "imageUrls": ["../static/images/p2_sc1.PNG", "../static/images/p2_sc2.PNG", "../static/images/p2_sc3.PNG"]
             },
             {
                 "id": "4",
-                "project name": "Public API Requests",
-                "description": "Description goes here",
-                "technologies": "technology list",
-                "live link": "",
-                "github link": "",
-                "image urls": ""
-            },
+                "projectName": "Random Quote Generator",
+                "description": "A quote within an array is chosen at random to be displayed. Another quote within the array can be shown at random if the Show another quote button is clicked. Every time the quote changes the background color changes at random as well. A new quote will appear every 10 seconds.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "liveLink": "https://jimmikedave.github.io/Treehouse-Project-1/",
+                "githubLink": "https://github.com/jimmikedave/Treehouse-Project-1",
+                "imageUrls": ["../static/images/p1_sc1.PNG", "../static/images/p1_sc2.PNG", "../static/images/p1_sc3.PNG"]
+            }
         ]
     }
 }
